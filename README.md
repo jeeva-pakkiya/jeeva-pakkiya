@@ -54,19 +54,6 @@
 - 🤖 AI Integrated Projects
 - 📚 Data Structures & Algorithms
 - ☕ Java & Spring Boot Learning
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeeva-pakkiya&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-pakkiya&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -96,17 +83,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeeva-pakkiya&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeeva-pakkiya&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
 ---
 
 # 👀 Visitor Count
