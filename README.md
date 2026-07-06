@@ -13,7 +13,7 @@
 
 💻 MERN Stack Developer
 
-🌱 Currently learning Advanced Java, Spring Boot & DSA
+🌱 Currently learning Advanced Python, Django & DSA
 
 🚀 Building Full Stack Projects
 
@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,firebase&perline=8" />
 
 </p>
 
